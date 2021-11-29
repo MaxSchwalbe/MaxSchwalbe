@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxSchwalbe
-- 👀 I’m interested in politcs, digital communism ^^
+- 👀 I’m interested in politics, digital communism ^^
 - 🌱 I’m currently learning lipid/bioanalytics
 - 💞️ I’m looking to collaborate on frontend talks about FOSS services and how to change the world with that
 - 📫 How to reach me: here :)
